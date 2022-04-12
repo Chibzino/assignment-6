@@ -1,0 +1,184 @@
+.tahoma{
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin-top: 0.3rem;
+    margin-bottom: 3rem;
+}
+h4{
+    margin-bottom: 0;
+}
+.biggest{
+    font-family: arial;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+}
+.sales{
+    font-style: italic;
+    color: rgb(224, 77, 126);
+    font-size: 1rem;
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 3rem;
+}
+.html{
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+}
+.beginner{
+    font-family: verdana;
+   color: grey;
+    font-size: 0.8rem;
+    margin-top: 0;
+}
+.course{
+    font-family: verdana;
+}
+.get-button{
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 0.3rem;
+    font-family: verdana;
+    padding: 0.3rem;
+    margin-bottom: 3rem;
+}
+.shopping{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 0.3rem;
+    text-align: center;
+}
+.see{
+    text-align: center;
+    font-family: arial;
+}
+.learn{
+    text-align: center;
+    color: blue;
+    margin-bottom: 3rem;
+}
+.new{
+    color: rgb(218, 26, 26);
+    font-family: arial;
+    font-size: smaller;
+    text-align: center;
+    margin-top: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+.mac{
+    font-weight: bold;
+    text-align: center;
+    font-family: arial;
+    margin-top: 0.2rem;
+    margin-bottom: 0;
+}
+.super{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.from{
+    text-align: center;
+    font-family: arial;
+    font-size: smaller;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+.buy-button{
+    background-color: blue;
+    color: white;
+    border-radius: 0.5rem;
+    margin-top: 0.7rem;
+    margin-bottom: 3rem;
+    border: none;
+    padding-right: 0.3rem;
+    height: 1.2rem;
+}
+.buy-div{  text-align: center;
+    
+}
+.price{
+    font-family: arial;
+    font-size: 1.7rem;
+    margin-top: 0.3rem;
+    margin-bottom:0 ;
+}
+.usd{
+    color: rgb(75, 73, 73);
+    font-family: arial;
+    font-size: 1rem;
+}
+.percentage{
+    font-family: arial;
+    color: green;
+    margin-top: 0.7rem;
+    margin-bottom: 0;
+    font-size: small;
+}
+.after{
+    font-family: arial;
+    color: rgb(75, 73, 73);
+    font-size: small;
+    margin-bottom: 3rem;
+}
+.span2{
+    font-family: arial;
+    color: rgb(218, 26, 26);
+}
+.free{
+    font-family: arial;
+    font-weight: 550;
+}
+.span3{
+    color: rgb(88, 85, 85);
+    font-family: arial;
+}
+.web{
+    font-family: arial;
+}
+.here{
+    font-family: arial;
+}
+.span4{
+    color: blue;
+    cursor: pointer;
+    margin-bottom: 3rem;
+}
+.span4:hover{
+ background-color: blue;
+ color: white;
+}
+.parag{
+    margin-bottom: 3rem;
+}
+.montserrat{
+    font-family: montserrat;
+}
+.model{
+font-weight: bold;
+font-size: 2.5rem;
+margin-top: 0%;
+text-align: center;
+margin-bottom: 0;
+}
+.order{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.span5{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.span5:hover{
+    opacity: 0.4;
+}
